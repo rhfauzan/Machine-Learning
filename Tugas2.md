@@ -39,23 +39,26 @@
 
 2.	Lakukan praktek dari https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
 2.1.	Persiapan sample dataset
- 
- 
+     ![image](https://github.com/user-attachments/assets/fd4d7b36-e555-4538-9aee-d4536bda8c16)
+  	![image](https://github.com/user-attachments/assets/3204607d-e363-4453-8d8a-513ffd01e525)
+
 2.2.	Preprocessing dataset
- 
+     ![image](https://github.com/user-attachments/assets/e17a9a8a-e3ce-4901-950b-2fe5812d45d4)
+
 2.3.	Pengenalan Multiple Linear Regression 
 Multiple Linear Regression merupakan sebuah generalisasi dari simple linear regression yang nantinya memungkinkan dalam menggunakan beberapa explanatory variable.
+     ![image](https://github.com/user-attachments/assets/0e019a22-93d1-4968-bf6a-74841b191d60)
  
 2.4.	Pengenalan Polynomial Regression
 Polynomial Regression merupakan sebuah modelan yang berhubungan antara independent cariable x dan dependent variable y sebagai Polynomial x
- 
+     ![image](https://github.com/user-attachments/assets/f0b9893f-1d4c-411b-8cf0-3f60b38d5ea4)
+
 2.5.	Quadratic Polynomial Regression
- 
- 
- 
- 
+     ![image](https://github.com/user-attachments/assets/aec91721-5f57-44dc-bf4e-4588c5e7a896)
+     
+     
 2.6.	Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
- 
+     
  
  
 3.	Lakukan praktek dari https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
