@@ -58,7 +58,7 @@ Polynomial Regression merupakan sebuah modelan yang berhubungan antara independe
      
      
 2.6.	Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
-     
+
  
  
 3.	Lakukan praktek dari https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
