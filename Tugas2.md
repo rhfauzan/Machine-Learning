@@ -1,33 +1,42 @@
 1.	Lakukan praktek dari https://youtu.be/lcjq7-2zMSA?si=f4jWJR6lY8y0BZKl  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
+
 1.1.	Sample dataset
- 
+     ![image](https://github.com/user-attachments/assets/5af59d34-ccd4-4dff-a37f-f20dd74fb13b)
  
 1.2.	Visualisasi dataset
- 
- 
+     ![image](https://github.com/user-attachments/assets/c9d854a0-1892-4900-915a-8d06df26a537)
+     ![image](https://github.com/user-attachments/assets/cc67e580-27eb-47c2-a847-29239ec9c705)
+
 1.3.	Transformasi dataset
+     ![image](https://github.com/user-attachments/assets/1e30ae2a-1987-41f4-83d0-4cb86b1789dc)
  
 1.4.	Training Simple Linear Regression Model
- 
+     ![image](https://github.com/user-attachments/assets/20aaa1db-9cbb-4223-b2df-2c5c75c3419d)
+
 1.5.	Visualisasi Simple Linear Regression Model | Penjelasan persamaan garis linear 
- 
- 
- 
+     ![image](https://github.com/user-attachments/assets/75a2e613-b8d5-4468-9909-39a7a8e09c0c)
+     ![image](https://github.com/user-attachments/assets/a9e9c10b-05fc-43ee-9747-9ec8d2d3157f)
+     ![image](https://github.com/user-attachments/assets/3e17b436-7e1b-41fd-b9c9-2ef248856052)
+
 1.6.	Kalkulasi nilai slope
- 
- 
+     ![image](https://github.com/user-attachments/assets/91668516-97d4-457f-9a8a-13661fa38d91)
+     ![image](https://github.com/user-attachments/assets/63854e76-255a-4840-a568-2332b1d087ac)
+
 1.7.	Kalkukasi nilai intercept
+     ![image](https://github.com/user-attachments/assets/0175afea-5ee9-42cb-8445-ba67d2e09354)
  
 1.8.	Prediksi harga pizza dengan Simple Linear Regression Model
- 
+     ![image](https://github.com/user-attachments/assets/dc53a98e-d5d6-417d-934b-612f8cfab748)
+
 1.9.	Evaluasi Simpel Linear Regression Model
- 
+     ![image](https://github.com/user-attachments/assets/c2928745-2995-4373-97e2-b2b61c1a895e)
+
 1.10.	Evaluasi model dengan Coefficient of Determination | R Squared
- 
- 
+      ![image](https://github.com/user-attachments/assets/69aad614-884d-4845-a03c-e2ec1d781e0c)
+
 1.11.	Kalkulasi nilai R Squared | Coefficient of Determination
- 
- 
+      ![image](https://github.com/user-attachments/assets/4d8bb64e-7086-484b-b621-c86b44d64b88)
+
 2.	Lakukan praktek dari https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV  dan buat screen shot hasil run dengan nama anda pada hasil run tersebut. Praktek tersebut yaitu:
 2.1.	Persiapan sample dataset
  
