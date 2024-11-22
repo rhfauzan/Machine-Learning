@@ -55,9 +55,16 @@ Polynomial Regression merupakan sebuah modelan yang berhubungan antara independe
 
 2.5.	Quadratic Polynomial Regression
      ![image](https://github.com/user-attachments/assets/aec91721-5f57-44dc-bf4e-4588c5e7a896)
+     ![image](https://github.com/user-attachments/assets/fed28b60-1fcc-45aa-b041-4f672414c651)
+     ![image](https://github.com/user-attachments/assets/66bfac1e-e316-4082-bed1-ea7b33698c05)
+
+
      
      
 2.6.	Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
+![image](https://github.com/user-attachments/assets/31677d02-9362-43b7-aa22-5e018d451d8d)
+![image](https://github.com/user-attachments/assets/867fa1fd-b91f-4e79-a2b1-286a68d8c952)
+
 
  
  
