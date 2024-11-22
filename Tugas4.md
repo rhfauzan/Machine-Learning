@@ -2,6 +2,7 @@
    
   1.1.	Pengenalan Bayes Theorem | Teori Bayes | Conditional Probability
   -	Bayes' theorem menawarkan suatu formula untuk menghitung nilai probability dari suatu event dengan memanfaatkan pengetahuan sebelumnya dari kondisi terkait; atau sering kali dikenal dengan istilah conditional probability.
+    
   ![image](https://github.com/user-attachments/assets/e379d68d-6e68-42f5-820e-2ac56cad6ee0)
 
   1.2.	Pengenalan Naive Bayes Classification
