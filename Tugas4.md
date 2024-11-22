@@ -13,7 +13,9 @@
 
   1.4.	Pengenalan Likelihood
   -	mengukur seberapa baik model statistik menjelaskan data yang diamati dengan menghitung probabilitas melihat data tersebut berdasarkan nilai parameter model yang berbeda. Hal ini dibangun dari distribusi probabilitas gabungan dari variabel acak yang (mungkin) menghasilkan observasi.
+    
   ![image](https://github.com/user-attachments/assets/ad178dda-381c-4c88-aea2-631161b129d6)
+  
   Lakukan prediksi siapa pelanggan yang melakukan pemesanan dengan diketahui pesanannya adalah lumpia dan bakso.
 
 P(Asep)=0.5
@@ -30,7 +32,9 @@ Joko:
 ■(Evidence&=∑(Likelihood×Prior)@P(lumpia,bakso)&=(0.08×0.5)+(0.06×0.5)@&=0.07)
 
 1.5.	Pengenalan Evidence | Normalizer
+
 ![image](https://github.com/user-attachments/assets/99149899-cfd1-4443-9ad9-89bd4be4cb55)
+
 Lakukan prediksi siapa pelanggan yang melakukan pemesanan dengan diketahui pesanannya adalah siomay dan bakso.
 
 Posterior Probability: P(y|X)
